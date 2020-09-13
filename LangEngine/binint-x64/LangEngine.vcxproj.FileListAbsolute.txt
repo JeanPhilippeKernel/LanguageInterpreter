@@ -1,0 +1,2 @@
+D:\source\repos\LanguageInterpreter_demo\LangEngine\bin-x64\LangEngine.pdb
+D:\source\repos\LanguageInterpreter_demo\LangEngine\binint-x64\LangEngine.pdb
